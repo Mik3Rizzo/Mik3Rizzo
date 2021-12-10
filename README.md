@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Mik3Rizzo
-- 👀 I’m interested in Art, Philosopy, Beers and Music.
-- 🌱 I’m a Master's Degree computer engineering student at University of Brescia.
-- 💞️ I’m looking to collaborate on something special about "Peperoni Cruschi"
+- 👀 I’m interested in Art, Philosopy, Beers and Music. Ah, also in Engineering.
+- 🌶 I'm a Paparu' crusch enthusiast.
+- 🌱 I’m currently learning how to live happy and fresh.
+- 💞️ I’m looking to collaborate on something special.
 - 📫 From Italy.
 
 <!---
