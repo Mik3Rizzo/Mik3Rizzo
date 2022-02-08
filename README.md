@@ -9,10 +9,10 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Mik3Rizzo.Mik3Rizzo)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mik3Rizzo&hide=prs,issues,contribs&count_private=true&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mik3Rizzo&hide=prs,contribs&count_private=true&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="(https://github-readme-stats.vercel.app/api/top-langs/?username=Mik3Rizzo&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mik3Rizzo&layout=compact" />
 </a>
 
 <!---
