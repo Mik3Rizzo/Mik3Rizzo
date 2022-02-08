@@ -16,10 +16,10 @@ You can click the Preview link to take a look at your changes.
 <!-- STATS -->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" height=180 src="https://github-readme-stats.vercel.app/api?username=Mik3Rizzo&hide=prs,contribs&hide_rank=true&count_private=true&include_all_commits=true&show_icons=true&theme=dark&bg_color=0d1117" />
+  <img align="center" height=180 width=300 src="https://github-readme-stats.vercel.app/api?username=Mik3Rizzo&hide=prs,contribs&hide_rank=true&count_private=true&include_all_commits=true&show_icons=true&theme=dark&bg_color=0d1117" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mik3Rizzo&layout=compact&theme=dark&bg_color=0d1117" />
+  <img align="center" height=180 width=300 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mik3Rizzo&layout=compact&theme=dark&bg_color=0d1117" />
 </a>
 
 
