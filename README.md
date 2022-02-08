@@ -2,7 +2,7 @@
 Mik3Rizzo/Mik3Rizzo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
+# About
 
 - 👋 Hi, I’m @Mik3Rizzo
 - 👀 I’m interested in Art, Philosopy, Beers and Music. Ah, also in Engineering.
@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 - 📫 From Italy, the land of passion.
 
 
-<!-- STATS -->
+# Some numbers
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" height=160 src="https://github-readme-stats.vercel.app/api?username=Mik3Rizzo&hide=prs,contribs&hide_rank=true&count_private=true&include_all_commits=false&show_icons=true&theme=dark&bg_color=0d1117" />
