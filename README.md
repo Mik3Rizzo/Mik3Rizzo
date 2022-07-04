@@ -18,9 +18,6 @@ Feel free to contact me by [mail](mailto:m.rizzo006@studenti.unibs.it) or [Insta
 
 # Some numbers
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" height=150 src="https://github-readme-stats.vercel.app/api?username=Mik3Rizzo&hide=prs&hide_rank=true&count_private=true&include_all_commits=false&show_icons=true&theme=dark&bg_color=0d1117&border_color=30363d" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mik3Rizzo&layout=compact&theme=dark&bg_color=0d1117&border_color=30363d" />
-</a>
+<img align="center" height=150 src="https://github-readme-stats.vercel.app/api?username=Mik3Rizzo&hide=prs&hide_rank=true&count_private=true&include_all_commits=false&show_icons=true&theme=dark&bg_color=0d1117&border_color=30363d" />
+
+<img align="center" height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mik3Rizzo&layout=compact&theme=dark&bg_color=0d1117&border_color=30363d" />
