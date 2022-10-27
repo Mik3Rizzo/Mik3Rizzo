@@ -4,13 +4,13 @@ You can click the Preview link to take a look at your changes.
 --->
 # Some words
 
-👋 Hi, I’m [@Mik3Rizzo](https://github.com/Mik3Rizzo)
+👋 Hi, I’m (also) [@Mik3Rizzo](https://github.com/Mik3Rizzo)
 
 - 👀 Interested in bizarre things.
 - 🌶  [Paparu' crusch](https://en.wikipedia.org/wiki/Peperone_crusco) enthusiast.
 - 🌱 Learning how to live happy and [Fresh](https://www.instagram.com/fresh.theitaliantrash/).
-- 👨‍💻 Studying *Master's Degree Computer Engineering* at [University of Brescia](https://en.wikipedia.org/wiki/University_of_Brescia).
-- 📫 From Italy, the land of passion.
+- 👨‍💻 Studying *MSc in Computer Engineering* @ [University of Brescia](https://en.wikipedia.org/wiki/University_of_Brescia).
+- 🇮🇹 From the land of beauty.
 
 Feel free to contact me by [mail](mailto:m.rizzo006@studenti.unibs.it).
 
