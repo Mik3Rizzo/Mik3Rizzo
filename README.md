@@ -6,13 +6,12 @@ You can click the Preview link to take a look at your changes.
 
 👋 Hi, I’m (also) [@Mik3Rizzo](https://github.com/Mik3Rizzo)
 
-- 👀 Interested in [bizarre](https://www.qrz.com/db/IU2KUR) things.
-- 🌶  [Paparu' crusch](https://en.wikipedia.org/wiki/Peperone_crusco) enthusiast.
-- 🌱 Learning how to live happy and [Fresh](https://www.instagram.com/fresh.theitaliantrash/).
-- 👨‍💻 Studying *MSc in Computer Engineering* @ [University of Brescia](https://en.wikipedia.org/wiki/University_of_Brescia).
-- 🇮🇹 From the land of beauty.
+- 👀 Interested in [bizarre](https://www.qrz.com/db/IU2KUR) things
+- 🌶  [Paparu' crusch](https://en.wikipedia.org/wiki/Peperone_crusco) enthusiast
+- 👨‍💻 Studying *MSc in Computer Engineering* @ [unibs](https://www.instagram.com/unibs.official/)
+- 🇮🇹 From the land of beauty
 
-Feel free to contact me by [mail](mailto:m.rizzo006@studenti.unibs.it).
+Feel free to [contact](mailto:mik3.rizzo@gmail.com) me.
 
 
 # Some numbers
@@ -22,6 +21,6 @@ Feel free to contact me by [mail](mailto:m.rizzo006@studenti.unibs.it).
     <img align="left" alt="stats" height=150 src="https://github-readme-stats-jekx8ip2t-mik3rizzo.vercel.app/api?username=Mik3Rizzo&custom_title=Stats&hide=prs&hide_rank=true&count_private=true&include_all_commits=false&show_icons=true&theme=dark&bg_color=0d1117&border_color=30363d" />
   </a>
   <a href="#">
-    <img alt="languages" height=150 src="https://github-readme-stats-jekx8ip2t-mik3rizzo.vercel.app/api/top-langs/?username=Mik3Rizzo&langs_count=5&layout=compact&theme=dark&bg_color=0d1117&border_color=30363d" />
+    <img alt="languages" height=150 src="https://github-readme-stats-jekx8ip2t-mik3rizzo.vercel.app/api/top-langs/?username=Mik3Rizzo&langs_count=4&layout=compact&theme=dark&bg_color=0d1117&border_color=30363d" />
   </a>
 </div>
