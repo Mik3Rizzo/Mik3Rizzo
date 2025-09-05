@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 
 - 👀 Interested in [bizarre](https://www.qrz.com/db/IU2KUR) things
 - 🌶  [Paparu' crusch](https://en.wikipedia.org/wiki/Peperone_crusco) enthusiast
-- 👨‍💻 Studying *MSc in Computer Engineering* @ [unibs](https://www.instagram.com/unibs.official/)
+- 👨‍💻 *MSc in Computer Engineering* @ [unibs](https://www.instagram.com/unibs.official/)
 - 🇮🇹 From the land of beauty
 
 Feel free to [contact](mailto:mik3.rizzo@gmail.com) me.
